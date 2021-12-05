@@ -1,7 +1,9 @@
 # Examining Tracking Algorithms
 
-by James O&#39;Connor
+Author - James O&#39;Connor
+
 ENG09022 – Multi-Modal Sensor Systems
+
 _IT Sligo_
 
 **_Abstract_—This report examines some of the popular algorithms used for localization and tracking, including the Kalman filter, Extended Kalman filter, Unscented Kalman filter and the Particle filter. The algorithms were examined using three separate configurations of a time-of-arrival sensor network over a five second time period. Out of the four algorithms investigated, the particle filter was the least performant.**
@@ -66,11 +68,11 @@ The particle filter was created in 1993 and works in much the same way as the af
 
 The sensors for both the localization and tracking tests were setup in three configurations:
 
-### 1) Scattered – Scenario 1
+_1) Scattered – Scenario 1_
 
-### 2) Square – Scenario 2
+_2) Square – Scenario 2_
 
-### 3) Inline – Scenario 3
+_3) Inline – Scenario 3_
 
 
 ### A. Localisation
